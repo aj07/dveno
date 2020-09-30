@@ -24,10 +24,9 @@ A humble attempt to solve the problem of managing household and other shared exp
 
 <!-- MAGIC COMMENT: DO NOT DELETE! Everything above this line is hidden on NEAR Examples page -->
 
-Sign in with [NEAR] and add a message to the guest book! A starter app built with an [AssemblyScript] backend and a [React] frontend.
 
 
-Quick Start
+Run Locally
 ===========
 
 To run this project locally:
@@ -118,7 +117,8 @@ As you can see in `package.json`, this does two things:
 1. builds & deploys smart contracts to NEAR TestNet
 2. builds & deploys frontend code to GitHub using [gh-pages]. This will only work if the project already has a repository set up on GitHub. Feel free to modify the `deploy` script in `package.json` to deploy elsewhere.
 
-
+References 
+---------------
 
   [NEAR]: https://nearprotocol.com/
   [yarn]: https://yarnpkg.com/
