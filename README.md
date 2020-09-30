@@ -1,5 +1,10 @@
 Dveno
 ==========
+
+
+1. Video Link : https://www.youtube.com/watch?v=ZRPF-ZROJ5M
+
+
 Problem:
 ===========
 While going out with freind. Its very difficult to track the expenses.
@@ -16,8 +21,8 @@ A humble attempt to solve the problem of managing household and other shared exp
 3. Less gas fee txn due to Near infra
 4. Some some tokens in advacne to reconcile the next split. (Its not present in Venmo/Splitwise)
 5. Many more.. 
+6. Make it full stream by tweeting about us. :)
 
-1. Video Link : https://www.youtube.com/watch?v=ZRPF-ZROJ5M
 
 
 
