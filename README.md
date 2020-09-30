@@ -1,9 +1,26 @@
 Dveno
 ==========
+Problem:
+===========
+While going out with freind. Its very difficult to track the expenses.
+1. Friends usually forget to track and pay expenses.
+2. And after that settling/reconciling the bill is very difficult. 
+3. Advance reconcillation is not there.
 
-[![Build Status](https://travis-ci.com/near-examples/guest-book.svg?branch=master)](https://travis-ci.com/near-examples/guest-book)
+Solution
+===========
+A humble attempt to solve the problem of managing household and other shared expenses through Dveno. At deveno you can
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/near-examples/guest-book)
+1. Record the expenses.
+2. split the biils 
+3. Less gas fee txn due to Near infra
+4. Some some tokens in advacne to reconcile the next split. (Its not present in Venmo/Splitwise)
+5. Many more.. 
+
+1. Video Link : https://www.youtube.com/watch?v=ZRPF-ZROJ5M
+
+
+
 
 <!-- MAGIC COMMENT: DO NOT DELETE! Everything above this line is hidden on NEAR Examples page -->
 
