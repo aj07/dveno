@@ -1,4 +1,4 @@
-Dveno  [ 3rd prize at Near Rainbow hack(https://github.com/aj07/dveno) ]
+Dveno  [ 3rd prize at Near Rainbow hack ]
 ==========
 
 
@@ -138,3 +138,4 @@ References
   [CLI]: https://www.w3schools.com/whatis/whatis_cli.asp
   [create-near-app]: https://github.com/nearprotocol/create-near-app
   [gh-pages]: https://github.com/tschaub/gh-pages
+  [ 3rd prize at Near Rainbow hack ] : https://www.notion.so/7951e643157941b3a17032c061aebe41?v=47c62c9fd20f4580a6b9f63ac9a8f9cf
